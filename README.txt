@@ -7,4 +7,4 @@ testing
 
 
 
-testibd fetch cmd
+testing fetch cmd
